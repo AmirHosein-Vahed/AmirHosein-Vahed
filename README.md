@@ -1,11 +1,5 @@
 ## Hi there 👋
 #### Welcome to my Github
-
-
-- 🔭 I’m currently working at Hesaba company
-- 🌱 I’m currently learning Django and Node.js/Express.js
-- 💬 Welcome to new friends
-
   
 ## Contact me:
 
