@@ -71,20 +71,7 @@
 
 ### Learning Skills:
 
-#### Frameworks:
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vue&theme=light" />
+  <img src="https://skillicons.dev/icons?i=ts,null,react,vue,null,nginx,kubernetes,null,gcp,azure,aws&theme=light" />
 </p>
 
-#### DevOps:
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nginx,kubernetes&theme=light" />
-</p>
-
-#### Cloud:
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=gcp,azure,aws&theme=light" />
-</p>
