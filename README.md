@@ -72,6 +72,6 @@
 ### Learning Skills:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,null,react,vue,null,nginx,kubernetes,null,gcp,azure,aws&theme=light" />
+  <img src="https://skillicons.dev/icons?i=ts,null,php,laravel,null,vue,null,nginx,kubernetes,null,gcp,azure,aws&theme=light" />
 </p>
 
