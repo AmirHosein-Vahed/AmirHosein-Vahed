@@ -24,47 +24,19 @@
   
 ## My skills:
 
-#### Languages:
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css&theme=light" />
-</p>
-<p><i>yes i know that html is not programming language :))<i/><p/>
-
-#### Frameworks:
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=django,flask,nodejs,express,graphql&theme=light" />
-</p>
-
-#### Databases:
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb&theme=light" />
-</p>
-
-#### Devops:
-
-<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js&theme=light" />
+  </br>
+  <img src="https://skillicons.dev/icons?i=django,graphql&theme=light" />
+  </br>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis&theme=light" />
+  </br>
   <img src="https://skillicons.dev/icons?i=linux,docker&theme=light" />
-</p>
-
-#### Version Controls:
-
-<p align="left">
+  </br>
   <img src="https://skillicons.dev/icons?i=git,github,gitlab&theme=light" />
-</p>
-
-#### Hardwares:
-
-<p align="left">
+  </br>
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=light" />
-</p>
-
-
-#### IDEs:
-
-<p align="left">
+  </br>
   <img src="https://skillicons.dev/icons?i=vscode&theme=light" />
 </p>
 
@@ -72,6 +44,15 @@
 ### Learning Skills:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,null,php,laravel,null,vue,null,nginx,kubernetes,null,gcp,azure,aws&theme=light" />
+  <img src="https://skillicons.dev/icons?i=nginx,kubernetes,null,aws,azure,gcp&theme=light" />
 </p>
 
+### Familiar With:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,html,css&theme=light" />
+  </br>
+  <img src="https://skillicons.dev/icons?i=flask,nodejs,express,php,laravel,vue&theme=light" />
+  </br>
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=light" />
+</p>
