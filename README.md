@@ -5,11 +5,11 @@
 ## Contact me:
 
 <p align="left">
+<a href='https://t.me/ah_vahed'>
+  <img src="https://user-images.githubusercontent.com/101007681/190468372-13a3d063-847e-46fe-9696-abed2da75dd3.svg" height=48px/>
+<a/>
 <a href='https://www.linkedin.com/in/amirhosein-vahed2000'>
   <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
-<a/>
-<a href='https://github.com/amirhosein-vahed'>
-  <img src="https://skillicons.dev/icons?i=github&theme=light" />
 <a/>
 </p>
   
