@@ -28,4 +28,6 @@
   </br>
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=light" />
 </p>
-
+<!--
+![AmirHosein Vahed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirHosein-Vahed&theme=nord&show_icons=true)
+-->
