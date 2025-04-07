@@ -16,9 +16,9 @@
 ## My skills:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,go,cpp,js,ts&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,go&theme=light" />
   </br>
-  <img src="https://skillicons.dev/icons?i=django,fastapi,express,vue,vite,graphql&theme=light" />
+  <img src="https://skillicons.dev/icons?i=django,fastapi,vue,graphql&theme=light" />
   </br>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb&theme=light" />
   </br>
@@ -29,9 +29,3 @@
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=light" />
 </p>
 
-
-### Learning Skills:
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nginx,kubernetes,null,aws,azure,gcp&theme=light" />
-</p>
